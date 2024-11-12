@@ -50,19 +50,19 @@
 ## Future Features
 - Solar Panel Layout Designer
   - Visual roof/site layout tool
-  - Panel placement optimization
-  - Shading analysis
-  - String configuration calculator
-  - System visualization
+  - Panel placement optimization (Optional)
+  - Shading analysis (Optional)
+  - String configuration calculator (Optional)
+  - System visualization (Images of major components)
 
 ## Interfaces
 ### Professional Portal (Installers)
 - Complete system design tools
-- Component & inventory management
+- Component management
 - Customer management
 - Advanced features:
   - Layout designer
-  - String configuration
+  - String configuration (Optional)
   - Detailed technical analysis
   - Professional reporting
   - Multi-tenant support
